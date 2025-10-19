@@ -9,7 +9,7 @@ KoBART를 파인 튜닝하여 일상의 감정 흐름을 유지하면서도 핵�
 
 - [AI Hub - 요약문 및 레포트 생성 데이터](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=582)
 - 다양한 도메인(일상, 행정, 교육, 뉴스 등)의 문서와 요약문으로 구성된 한국어 병렬 데이터셋
-- 원문(text)과 요약문(summary)을 추출 후, **일기체 데이터 중심으로 재구성**
+- 원문(text)과 요약문(summary)을 추출 후, 일기체 데이터 중심으로 재구성
 - 최종 학습 데이터: `2~3sent.zip` (train), `2~3sent_validation.zip` (validation)
 - 요약문 길이는 2~3문장으로 제한하여 자연스러운 서술형 요약에 적합하게 조정
 <br/>
@@ -44,6 +44,7 @@ KoBART를 파인 튜닝하여 일상의 감정 흐름을 유지하면서도 핵�
 ```
 <br/>
 <br/>
+
 
 
 
