@@ -1,5 +1,4 @@
 # 🧠 Diary Summarization Model Using KoBART
-
 This project presents a Korean diary summarization model built on **KoBART (Korean BART)**.  
 The model is fine-tuned to generate concise **2–3 sentence summaries** of diary entries while preserving the original emotional flow and key daily events.
   
@@ -8,7 +7,6 @@ By leveraging KoBART’s strong generative capabilities, the model aims to produ
 <br/>
 
 ## 📚 Data Source
-
 - **AI Hub – Summary and Report Generation Dataset**  
   https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=582
 - A large-scale Korean parallel dataset consisting of documents and human-written summaries across diverse domains, including daily life, administration, education, and news
@@ -21,7 +19,6 @@ By leveraging KoBART’s strong generative capabilities, the model aims to produ
 <br/>
 
 ## ⚙️ Model Architecture
-
 | Component | Description |
 |---------|------------|
 | **Base Model** | KoBART (`SKT-AI/kobart`) |
@@ -34,7 +31,6 @@ By leveraging KoBART’s strong generative capabilities, the model aims to produ
 <br/>
 
 ## 📦 Repository Structure
-
 ```
 📦 DIARY_MOOD_Summary-main/
 │
