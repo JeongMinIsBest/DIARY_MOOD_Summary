@@ -7,14 +7,13 @@ By leveraging KoBART’s strong generative capabilities, the model aims to produ
 <br/>
 
 ## 📚 Data Source
-- **AI Hub – Summary and Report Generation Dataset**  
-  https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=582
+- [AI Hub – Summary and Report Generation Dataset](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=582)
 - A large-scale Korean parallel dataset consisting of documents and human-written summaries across diverse domains, including daily life, administration, education, and news
-- Raw document–summary pairs were extracted and **reconstructed with a focus on diary-style texts**
+- Raw document–summary pairs were extracted and reconstructed with a focus on diary-style texts
 - Final training datasets:
   - `2~3sent.zip` (training set)
   - `2~3sent_validation.zip` (validation set)
-- Summary length was constrained to **2–3 sentences** to encourage natural, narrative-style abstractive summarization
+- Summary length was constrained to 2–3 sentences to encourage natural, narrative-style abstractive summarization
 <br/>
 <br/>
 
